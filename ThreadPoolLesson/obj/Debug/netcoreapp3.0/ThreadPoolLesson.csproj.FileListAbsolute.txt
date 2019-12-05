@@ -1,0 +1,11 @@
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\bin\Debug\netcoreapp3.0\ThreadPoolLesson.exe
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\bin\Debug\netcoreapp3.0\ThreadPoolLesson.deps.json
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\bin\Debug\netcoreapp3.0\ThreadPoolLesson.runtimeconfig.json
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\bin\Debug\netcoreapp3.0\ThreadPoolLesson.runtimeconfig.dev.json
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\bin\Debug\netcoreapp3.0\ThreadPoolLesson.dll
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\bin\Debug\netcoreapp3.0\ThreadPoolLesson.pdb
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\obj\Debug\netcoreapp3.0\ThreadPoolLesson.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\obj\Debug\netcoreapp3.0\ThreadPoolLesson.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\obj\Debug\netcoreapp3.0\ThreadPoolLesson.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\obj\Debug\netcoreapp3.0\ThreadPoolLesson.dll
+C:\Users\МакишевЕ\source\repos\ThreadPoolLesson\ThreadPoolLesson\obj\Debug\netcoreapp3.0\ThreadPoolLesson.pdb
